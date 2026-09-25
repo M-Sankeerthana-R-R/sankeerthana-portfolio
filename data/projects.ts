@@ -39,7 +39,6 @@ export type Project = {
   outcome?: string;
   links: ProjectLink[];
   media?: DemoMedia[];
-  sourceNote: string;
 };
 
 export const projects: Project[] = [

@@ -12,8 +12,8 @@ export const achievements: Achievement[] = [
     period: "Apr – May 2026",
   },
   {
-    title: "300+ LeetCode problems solved",
-    detail: "100+ additional problems attempted across core DSA topics.",
+    title: "330+ LeetCode problems solved",
+    detail: "70+ additional problems attempted across core DSA topics.",
   },
   {
     title: "Hackathon builder",
