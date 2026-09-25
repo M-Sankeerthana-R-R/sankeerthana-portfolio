@@ -167,13 +167,13 @@ export default async function ProjectPage({
           </CaseStudySection>
         )}
       </div>
-
+{/* 
       <div className="mt-4 pt-8 border-t border-[var(--color-border)]">
         <p className="text-xs leading-relaxed text-[var(--color-faint)] max-w-2xl">
           <span className="text-[var(--color-muted)] font-medium">Sourcing note — </span>
           {project.sourceNote}
         </p>
-      </div>
+      </div> */}
 
       <div className="mt-14 pt-8 border-t border-[var(--color-border)]">
         <Link
