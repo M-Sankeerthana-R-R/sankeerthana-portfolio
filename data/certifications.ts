@@ -8,7 +8,7 @@ export type Certification = {
 
 export const certifications: Certification[] = [
   {
-    title: "Centific Premier Hackathon 2.0 — Internship Offer",
+    title: "Centific Premier Hackathon 2.0 — Winner",
     issuer: "Centific Global Technologies",
     date: "3 May 2025",
     featured: true,

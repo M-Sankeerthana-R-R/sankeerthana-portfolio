@@ -19,7 +19,7 @@ export const experience: ExperienceEntry[] = [
       "Built Vidura, a Medical Scribe Workforce Intelligence platform with interactive workforce analytics and insight workflows.",
       "Developed and integrated a 3D virtual humanoid AI presenter (Chloe) capable of joining Microsoft Teams through API/cURL-triggered workflows — presenting the application, listening to commands, responding conversationally, and performing actions live.",
       "Evaluated across technical and soft-skill dimensions over the 2-week hackathon, including an industry-leader interview worth 50% of the final evaluation.",
-      "Won the hackathon — received an AI Systems Engineer offer from Centific plus a ₹10,000 Amazon voucher.",
+      "Winner | Hackathon",
     ],
     projectSlug: "vidura",
   },

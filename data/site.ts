@@ -7,7 +7,7 @@ export const site = {
   role: "Computer Science Engineer",
   tagline: "building intelligent systems.",
   heroStatement:
-    "I build AI systems, generative AI applications, and full-stack products — from a database security platform used to catch suspicious SQL activity, to a 3D AI presenter that joins live meetings and takes action on command.",
+    "I build AI systems and intelligent applications across multimodal ML, Generative AI, cybersecurity, and full-stack engineering — turning research ideas and complex workflows into practical, deployable products.",
   email: "msankeerthanarupinireddy@gmail.com",
   phone: "+91 7981228355",
   github: "https://github.com/M-Sankeerthana-R-R",
